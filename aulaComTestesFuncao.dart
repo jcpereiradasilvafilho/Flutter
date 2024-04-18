@@ -69,8 +69,4 @@ void mostraUsuario2(String nome, [int? idade, String? profissao]){
 
 //Arrow Functions
 // =>
-int somaInteiros2(int num1, int num2) => num1 + num2; 
-
-
-
-
+int somaInteiros2(int num1, int num2) => num1 + num2;
